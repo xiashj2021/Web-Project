@@ -1,3 +1,5 @@
+CREATE DATABASE Group_B14;
+
 -- create the Person table
 CREATE TABLE Person
 (

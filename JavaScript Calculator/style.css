@@ -1,0 +1,68 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2021年12月5日, 上午10:36:36
+    Author     : dell
+*/
+
+            /* Main body settings */
+            .counter{
+                width: 396px;
+                height: 560px;
+                background-color: #98fb98;
+                border: ridge 4px #cfc8cf;
+                border-radius: 2px;
+                outline: solid 8px #f2f2f2;
+                margin: 50px auto;
+            }
+            /* Display box settings */
+            #box {
+                height: 70px;
+                width: 320px;
+                background-color: #cccccc;
+                border:ridge 3px #060606 ;
+                border-radius: 2px;
+                margin: 0px 10px 25px 25px;
+                font:700 50px/70px "Palace Script MT";
+                color: #7d8998;
+                padding-right: 10px;
+            }
+            /* Title settings */
+            h1{
+                font: 35px "Edwardian Script ITC";
+                text-align: center;
+            }
+            /* Functional areas settings */
+            .funct {
+                padding: 0 20px;
+                position: relative;
+
+            }
+            /* Button style settings */
+            .funct .buttons {
+            float: left;
+            width: 71px;
+            height: 55px;
+            font: 700 40px/70px "Palace Script MT";
+            text-align: center;
+            margin: 0 10px 10px 0;
+            border-radius: 5px;
+            background-color: #b2b2c9;
+            color: white;
+            }
+            /* Plus button style settings */
+            #add  {
+            height: 185px;
+            float: right;
+            margin: 0 41px 41px 0;
+            }
+            /* Clear button style settings */
+            #res  {
+            width: 152px;
+            }
+            
+
+           
+
